@@ -3,11 +3,11 @@ Initialize start screen
 
 \# Start game loop  
 When start button pressed initialize mode selection screen  
-	 For each button/option:  
-		  If selected:  
-			   Change game parameter to match
-   		  Else:  
-			   Other option or default  
+	For each button/option:  
+		If selected:  
+			Change game parameter to match
+   		Else:  
+			Other option or default  
 While game is running:  
 	Display current score  
 	Display board as edited by player-chosen specifications  
