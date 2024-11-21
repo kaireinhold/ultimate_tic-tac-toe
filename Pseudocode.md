@@ -1,9 +1,12 @@
+
+
+
 \# Initialize game  
 Initialize start screen  
 
 \# Start game loop  
 When start button pressed:  
-    Initialize mode selection screen  
+<tab>    Initialize mode selection screen  
     For each button/option:  
         If selected:  
             Change game parameter to match  
